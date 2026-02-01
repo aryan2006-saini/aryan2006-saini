@@ -44,6 +44,7 @@ Currently exploring various technologies and always eager to learn something new
 
 ## 📚 Featured Projects
 
+- [Machine_Learning_4thSem](https://github.com/aryan2006-saini/Machine_learning_4thSem)
 - [Arificial_Intelligence_Fall2k25](https://github.com/aryan2006-saini/Arificial_Intelligence_Fall2k25)
 - [Book-recommeder](https://github.com/aryan2006-saini/Book-recommeder)
 - [flask_project1](https://github.com/aryan2006-saini/flask_project1)
@@ -56,17 +57,19 @@ Currently exploring various technologies and always eager to learn something new
 
 <!-- Add your social links here if you'd like -->
 
-<!--
+
 **aryan2006-saini/aryan2006-saini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!--- 🔭 I’m currently working on ...-->
+- 🌱 I’m currently learning - DSA and Web Development
+<!-- 👯 I’m looking to collaborate on ...-->
+<!--- 🤔 I’m looking for help with ... -->
+- 💬 Ask me about my progress.
+- 📫 How to reach me:
+  Email: aryansaini8773@gmail.com
+  Phone: +91 7380922566
+##  😄 Pronouns: You can also call me - Chandan (It's my second name)
+- ⚡ Fun fact: Talk to me then I will tell you about my fun facts.
+
