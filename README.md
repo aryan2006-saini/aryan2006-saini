@@ -1,75 +1,89 @@
-# Hi there! I'm Aryan Saini 👋
+<h1 align="center">Aryan Saini</h1>
+<h3 align="center">Aspiring Software Developer | Learning by Building | Passionate About Helping Students</h3>
 
-🎓 Computer Science Student  
-🚀 AI/ML Enthusiast | Web Developer | Project Creator
+<!-- Profile Views -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AryanSaini07&label=Profile%20Views&color=blue&style=for-the-badge" width="200" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=23&center=true&vCenter=true&width=700&lines=Computer+Science+Undergrad;Learning+DSA+and+Full-Stack+Development;Building+Projects+To+Help+Needy+People;Passionate+About+Tech%2C+Books+%26+Education" />
+</p>
 
 ---
 
 ## 🚀 About Me
-
-I'm a passionate Computer Science student with a keen interest in Artificial Intelligence, Machine Learning, and Web Development.  
-Currently exploring various technologies and always eager to learn something new!
-
----
-
-## 💻 Tech Stack
-
-### Languages & Tools
-![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-blue?logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-black?logo=flask&logoColor=white)
-
-### Python Libraries
-![Pandas](https://img.shields.io/badge/-Pandas-purple?logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-blue?logo=numpy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/-scikit--learn-orange?logo=scikit-learn&logoColor=white)
-![NLTK](https://img.shields.io/badge/-NLTK-green?logo=python&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-blue?logo=python&logoColor=white)
-![BeautifulSoup](https://img.shields.io/badge/-BeautifulSoup-yellowgreen?logo=python&logoColor=white)
-
-### Core Skills
-![DSA](https://img.shields.io/badge/-DSA-red)
-![OOP](https://img.shields.io/badge/-OOP-green)
-![DBMS](https://img.shields.io/badge/-DBMS-blue)
-
-### Version Control
-![Git](https://img.shields.io/badge/-Git-orange?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white)
+- 🎓 **1st year CSE Student**  
+- 🌱 Currently learning **DSA, Flask, ML basics & Web Development**  
+- 📚 Inspired by **Alakh Pandey** for educational contributions  
+- ❤️ Dream: Build applications useful for **students & underprivileged people**  
+- 💡 Strong believer in *learning by building*  
+- 🎯 Goal: Become a **skilled software developer**  
+- 🤝 I plan to donate **5–20% of future earnings** for education support  
 
 ---
 
-## 📚 Featured Projects
+## 🛠️ Tech Stack
 
-- [Machine_Learning_4thSem](https://github.com/aryan2006-saini/Machine_learning_4thSem)
-- [Arificial_Intelligence_Fall2k25](https://github.com/aryan2006-saini/Arificial_Intelligence_Fall2k25)
-- [Book-recommeder](https://github.com/aryan2006-saini/Book-recommeder)
-- [flask_project1](https://github.com/aryan2006-saini/flask_project1)
-- [flask-project](https://github.com/aryan2006-saini/flask-project)
-- [book-rental-platform](https://github.com/Alok-work23/book-rental-platform)
+<p align="center">
+  <!-- Programming Languages -->
+  <span>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" />
+
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" />
+    
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="45" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" />
+
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" />
+  </span>
+</p>
 
 ---
 
-> "Always eager to learn and build something new!"
+## 📌 Featured Projects
 
-<!-- Add your social links here if you'd like -->
+### 🔹 **Stack Overflow Tag Trends Dashboard**
+- Flask backend + Chart.js frontend  
+- Monthly tag trends, co-occurrence heatmaps, bar chart race, cumulative graphs  
+- CSV → Parquet Optimized Loading  
+- Dark mode supported  
 
+### 🔹 **Book Recommendation System**
+- Cosine similarity-based book recommendations  
+- Search, speech-to-text, favorites, pagination  
+- Beautiful UI with animations  
 
-**aryan2006-saini/aryan2006-saini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔹 **LinkedIn Graph Analysis**
+- Graph theory + 130 CSV datasets  
+- Applied BFS, DFS, tree algorithms, degree insights  
 
-Here are some ideas to get you started:
+---
 
-<!--- 🔭 I’m currently working on ...-->
-- 🌱 I’m currently learning - DSA and Web Development
-<!-- 👯 I’m looking to collaborate on ...-->
-<!--- 🤔 I’m looking for help with ... -->
-- 💬 Ask me about my progress.
-- 📫 How to reach me:
-  Email: aryansaini8773@gmail.com
-  Phone: +91 7380922566
-##  😄 Pronouns: You can also call me - Chandan (It's my second name)
-- ⚡ Fun fact: Talk to me then I will tell you about my fun facts.
+## 📊 GitHub Stats
 
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=AryanSaini07&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="150" src="https://git-hub-streak-stats.vercel.app?user=AryanSaini07&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🌍 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/aryan-saini">
+    <img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" width="40" />
+  </a>
+  <a href="mailto:aryansaini9080@gmail.com">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" />
+  </a>
+</p>
+
+---
+
+<p align="center">✨ *"Keep learning, keep building, keep growing."* ✨</p>
