@@ -3,7 +3,7 @@
 
 <!-- Profile Views -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AryanSaini07&label=Profile%20Views&color=blue&style=for-the-badge" width="200" />
+  <img src="https://komarev.com/ghpvc/?username=aryan2006-saini&label=Profile%20Views&color=blue&style=for-the-badge" width="200" />
 </p>
 
 <!-- Typing Animation -->
@@ -16,11 +16,10 @@
 ## 🚀 About Me
 
 - 🎓 **2nd Year Computer Science Engineering Student**  
-- 🌱 Currently working on **DSA, Flask, ML, Full-Stack Web Development**  
-- 🔭 Building: **Book Recommendation System**, **Stack Overflow Tag Dashboard**, **Graph Analysis Tools**  
-- 🤝 Inspired by *Alakh Pandey (Physics Wallah)* for education  
+- 🌱 Currently learning **DSA, Flask, Machine Learning & Full-Stack Web Dev**  
+- 🔭 Working on: **Book Recommendation System**, **StackOverflow Tag Dashboard**, **Graph Algorithms**  
 - 💡 Strong believer in *learning by building*  
-- 🎯 Ambition: Become a **skilled software developer**
+- 🎯 Goal: Become a **skilled software developer**
 
 ---
 
@@ -45,56 +44,42 @@
 
 ## 📌 Featured Projects
 
-### 🔹 **Stack Overflow Tag Trends Dashboard**
-- Full analytics dashboard built using Flask + Chart.js  
-- Includes monthly trends, tag co-occurrence heatmaps, bar chart race, stacked area charts  
-- CSV → Parquet data optimization  
-- Dark & light mode supported  
+### 🔹 Stack Overflow Tag Trends Dashboard  
+- Flask backend + Chart.js frontend  
+- Monthly tag analytics, trends, co-occurrence heatmaps  
+- Dark mode supported  
+- CSV → Parquet optimization  
 
----
+### 🔹 Book Recommendation System  
+- Cosine similarity–based recommendations  
+- Speech-to-text, pagination, favorites system  
+- Beautiful & responsive UI  
 
-### 🔹 **Book Recommendation System**
-- Cosine similarity based recommendations  
-- Search, pagination, speech-to-text, favorites system  
-- Clean UI with animations  
-- Flask backend + HTML/CSS/JS frontend  
-
----
-
-### 🔹 **LinkedIn Graph Analysis**
-- 130+ CSV datasets processed  
+### 🔹 LinkedIn Graph Analysis  
+- Processed 130+ student CSV datasets  
 - BFS, DFS, degree analysis, tree structures  
-- Visual & analytical insights  
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=AryanSaini07&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="150" src="https://streak-stats.demolab.com?user=AryanSaini07&theme=tokyonight&hide_border=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=aryan2006-saini&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="150" src="https://streak-stats.demolab.com?user=aryan2006-saini&theme=tokyonight&hide_border=true" />
 </p>
 
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AryanSaini07/AryanSaini07/output/github-contribution-grid-snake.svg" />
-</p>
-
-*(I can set this up in your repo if you want.)*
-
----
 
 ## 🌍 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/aryan-saini">
+  <a href="https://www.linkedin.com/in/aryan-saini-966370312">
     <img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" width="40" />
   </a>
-  <a href="mailto:aryansaini9080@gmail.com">
+  <a href="mailto:aryanaini8773@gmail.com">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" />
+  </a>
+  <a href="tel:+917380922566">
+    <img src="https://cdn-icons-png.flaticon.com/512/724/724664.png" width="40" />
   </a>
 </p>
 
