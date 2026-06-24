@@ -1,88 +1,200 @@
-<h1 align="center">Aryan Saini</h1>
-<h3 align="center">Aspiring Software Developer | Learning by Building | Passionate About Helping Students</h3>
+<h1 align="center">Hi 👋, I'm Aryan Saini</h1>
 
-<!-- Profile Views -->
+<h3 align="center">
+🚀 B.Tech CSE Student | Software Developer Aspirant |
+Backend & Full Stack Enthusiast | AI/ML Learner
+</h3>
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aryan2006-saini&label=Profile%20Views&color=blue&style=for-the-badge" width="200" />
+<img src="https://komarev.com/ghpvc/?username=aryan2006-saini&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 </p>
 
-<!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&center=true&vCenter=true&width=650&lines=2nd+Year+CSE+Student;Learning+DSA+and+Full-Stack+Development;Building+Projects+That+Help+Students;Passionate+About+Technology+and+Education;Learning+By+Building" />
-</p>
-
----
-
-## 🚀 About Me
-
-- 🎓 **2nd Year Computer Science Engineering Student**  
-- 🌱 Currently learning **DSA, Flask, Machine Learning & Full-Stack Web Dev**  
-- 🔭 Working on: **Book Recommendation System**, **StackOverflow Tag Dashboard**, **Graph Algorithms**  
-- 💡 Strong believer in *learning by building*  
-- 🎯 Goal: Become a **skilled software developer**
-
----
-
-## 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&center=true&vCenter=true&width=700&lines=B.Tech+CSE+Student+at+SRMU+Lucknow;Java+%7C+Spring+Boot+%7C+React+%7C+FastAPI;DSA+Enthusiast+%7C+AI%2FML+Learner;Building+Projects+that+Solve+Real+Problems;Learning+By+Building+Every+Day" />
 </p>
 
 ---
 
-## 📌 Featured Projects
+# 👨‍💻 About Me
 
-### 🔹 Stack Overflow Tag Trends Dashboard  
-- Flask backend + Chart.js frontend  
-- Monthly tag analytics, trends, co-occurrence heatmaps  
-- Dark mode supported  
-- CSV → Parquet optimization  
+🎓 B.Tech in Computer Science Engineering at **SRMU, Lucknow**
 
-### 🔹 Book Recommendation System  
-- Cosine similarity–based recommendations  
-- Speech-to-text, pagination, favorites system  
-- Beautiful & responsive UI  
+🌱 Currently Learning:
 
-### 🔹 LinkedIn Graph Analysis  
-- Processed 130+ student CSV datasets  
-- BFS, DFS, degree analysis, tree structures  
+- Data Structures & Algorithms
+- Java & Spring Boot
+- React & Full Stack Development
+- FastAPI & REST APIs
+- Machine Learning & AI
 
----
+💻 Interested In:
 
-## 📊 GitHub Stats
+- Software Engineering
+- Backend Development
+- Full Stack Development
+- Artificial Intelligence
 
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=aryan2006-saini&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="150" src="https://streak-stats.demolab.com?user=aryan2006-saini&theme=tokyonight&hide_border=true" />
-</p>
+🎯 Current Goal:
 
+- Crack top Software Engineering internships
+- Build impactful products
+- Become a strong problem solver
 
-## 🌍 Connect With Me
+⚡ Fun Fact:
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/aryan-saini-966370312">
-    <img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" width="40" />
-  </a>
-  <a href="mailto:aryanaini8773@gmail.com">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" />
-  </a>
-  <a href="tel:+917380922566">
-    <img src="https://cdn-icons-png.flaticon.com/512/724/724664.png" width="40" />
-  </a>
-</p>
+> I believe in **Learning By Building** 🚀
 
 ---
 
-<p align="center">✨ <i>"Keep learning, keep building, keep growing."</i> ✨</p>
+# 🛠 Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,javascript,c,html,css"/>
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=spring,fastapi,flask,nodejs"/>
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,tailwind"/>
+</p>
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql"/>
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,idea"/>
+</p>
+
+---
+
+# 📚 Currently Studying
+
+✔ Data Structures & Algorithms
+
+✔ Low Level Design
+
+✔ System Design Fundamentals
+
+✔ Spring Boot
+
+✔ Machine Learning
+
+✔ Operating Systems
+
+✔ DBMS
+
+✔ Computer Networks
+
+---
+
+# 🚀 Featured Projects
+
+## 📚 Book Recommendation System
+
+- Content-based recommendation engine
+- Cosine Similarity
+- Speech to Text Search
+- Favorites System
+- Responsive UI
+
+---
+
+## 📈 Stack Overflow Tag Trends Dashboard
+
+- Flask + Chart.js
+- Monthly Tag Trends
+- Heatmaps
+- CSV to Parquet Optimization
+- Interactive Dashboard
+
+---
+
+## 🔗 LinkedIn Graph Analysis
+
+- Graph Algorithms (BFS, DFS)
+- Degree Distribution
+- CSV Dataset Processing
+- Network Analysis
+
+---
+
+## 📝 FastAPI Issue Tracker
+
+- JWT Authentication
+- CRUD APIs
+- SQLAlchemy ORM
+- Swagger Documentation
+- Role-based Authorization
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=aryan2006-saini&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=aryan2006-saini&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Most Used Languages
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryan2006-saini&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=aryan2006-saini&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
+
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/aryan-saini-966370312">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="mailto:aryansaini8773@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+<a href="https://github.com/aryan2006-saini">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+✨ <b>Keep Learning • Keep Building • Keep Growing</b> ✨
+
+</p>
