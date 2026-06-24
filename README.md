@@ -1,225 +1,395 @@
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--                          ARYAN SAINI — GitHub Profile                    -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Aryan%20Saini&fontSize=65&fontAlignY=38&desc=Software%20Engineer%20in%20Progress%20%7C%20Lucknow%2C%20India&descAlignY=58&descSize=17&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Aryan%20Saini&fontSize=75&fontAlignY=35&desc=Backend%20Engineer%20%E2%80%A2%20AI%2FML%20Explorer%20%E2%80%A2%20Builder&descAlignY=55&descSize=18&fontColor=ffffff&animation=fadeIn" />
 </div>
 
+<!-- ─────────────── ANIMATED TYPING ─────────────── -->
+
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=3000&pause=900&color=A855F7&center=true&vCenter=true&multiline=false&width=700&lines=Java+%26+Spring+Boot+Backend+Engineer;FastAPI+%7C+ML+%7C+React+%7C+LangChain;DSA+Grinder+%7C+System+Design+in+Progress;B.Tech+CSE+%40+Sitare+University+Lucknow;Currently+Building+B2B+SaaS+%F0%9F%9A%80)](https://readme-typing-svg.demolab.com)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=100&lines=%E2%9A%A1+Java+%26+Spring+Boot+Backend+Engineer;%F0%9F%A4%96+FastAPI+%7C+Agentic+AI+%7C+LangChain+%7C+React;%F0%9F%8E%AF+Building+B2B+SaaS+%40+Sitare+Startup+Program;%F0%9F%9A%80+B.Tech+CSE+%E2%80%94+Semester+6+%7C+Lucknow%2C+India)](https://git.io/typing-svg)
 
 </div>
 
+<!-- ─────────────── BADGES ROW ─────────────── -->
+
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=aryan2006-saini&label=Profile+Views&color=7c3aed&style=flat-square" />
-&nbsp;&nbsp;
-<img src="https://img.shields.io/github/followers/aryan2006-saini?label=Followers&style=flat-square&color=06b6d4&labelColor=0f172a" />
-&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Oracle%20OCI-AI%20Foundations%20Certified-F80000?style=flat-square&logo=oracle&logoColor=white" />
-&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Open%20to-Internships%202026-22c55e?style=flat-square" />
+<a href="https://github.com/aryan2006-saini"><img src="https://komarev.com/ghpvc/?username=aryan2006-saini&label=Profile+Views&color=7c3aed&style=for-the-badge" /></a>
+&nbsp;
+<a href="https://github.com/aryan2006-saini?tab=followers"><img src="https://img.shields.io/github/followers/aryan2006-saini?label=Followers&style=for-the-badge&color=06b6d4&labelColor=0f172a&logo=github" /></a>
+&nbsp;
+<img src="https://img.shields.io/badge/Oracle%20OCI-AI%20Foundations-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+&nbsp;
+<img src="https://img.shields.io/badge/Status-Open%20to%20Internships%202026-22c55e?style=for-the-badge&logo=checkmarx&logoColor=white" />
 
 </div>
 
 <br>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## `$ whoami`
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--                                 ABOUT ME                                  -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="30" /> &nbsp;About Me
+
+<img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" alt="Snake" width="120" />
 
 ```typescript
 const aryan = {
-  name        : "Aryan Saini",
-  location    : "Lucknow, Uttar Pradesh, India 📍",
-  university  : "Sitare University — B.Tech CSE (Semester 6)",
-  program     : "Sitare 10-Month Startup Program — Building B2B SaaS",
-
+  pronouns     : "he" | "him",
+  location     : "Lucknow, Uttar Pradesh, India 📍",
+  university   : "Sitare University — B.Tech CSE (Semester 6)",
+  program      : "Sitare 10-Month Startup Program 🚀",
+  
   stack: {
-    languages  : ["Java", "Python", "JavaScript", "C"],
+    languages  : ["Java ☕", "Python 🐍", "JavaScript", "C"],
     backend    : ["Spring Boot", "FastAPI", "Flask", "Node.js"],
-    frontend   : ["React", "Tailwind CSS", "HTML/CSS"],
+    frontend   : ["React ⚛️", "Tailwind CSS", "HTML/CSS"],
     database   : ["MySQL", "SQLite", "SQLAlchemy ORM"],
     ai_ml      : ["Scikit-learn", "Pandas", "NumPy", "LangChain", "LangGraph"],
-    devops     : ["Git", "GitHub Actions", "Linux", "Docker (learning)"],
+    devops     : ["Git", "GitHub Actions", "Linux 🐧", "Docker 🐳"],
   },
 
-  currently_learning : ["Agentic AI & LangGraph", "System Design", "Spring Boot Microservices"],
-  building           : "B2B SaaS — coaching institute automation platform",
-  ask_me_about       : ["Backend APIs", "ML Pipelines", "DSA", "FastAPI", "Java"],
-  motto              : "Learn → Build → Ship → Repeat 🚀",
+  currently: {
+    building   : "B2B SaaS — coaching institute automation platform",
+    learning   : ["Agentic AI & LangGraph", "System Design", "Microservices"],
+    reading    : "Designing Data-Intensive Applications 📖",
+  },
+
+  fun_fact     : "I debug in my dreams and wake up with solutions 💡",
+  motto        : "Learn → Build → Ship → Repeat 🔁",
 };
 ```
 
----
+<br>
 
-## 🛠️ Tech Stack
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--                                TECH STACK                                 -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="28" /> &nbsp;Tech Arsenal
 
 <div align="center">
 
-### ⚡ Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-
-### 🔧 Backend & APIs
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-### 🎨 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### 🗄️ Databases & Tools
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-### 🤖 AI / ML
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
 <table>
 <tr>
-<td width="50%" valign="top">
+<td align="center" width="20%">
 
-### 📚 Book Recommendation System
-**Content-Based ML Recommender + Speech Search**
-
-- 🎤 Speech-to-text powered search
-- 🧠 TF-IDF + Cosine Similarity engine
-- ❤️ Personalized favorites & history
-- 📱 Fully responsive interface
-
-`Flask` `Scikit-learn` `Python` `HTML/CSS`
+**⚡ Languages**
 
 </td>
-<td width="50%" valign="top">
+<td align="center" width="20%">
 
-### 📈 Stack Overflow Tag Trends
-**Data Engineering meets Interactive Visualization**
+**🔧 Backend**
 
-- 📊 ChartJS-powered interactive charts
-- 🌙 Dark mode with localStorage persistence
-- ⚡ CSV → Parquet pipeline (10× faster reads)
-- 🔥 Monthly + yearly tag frequency analysis
+</td>
+<td align="center" width="20%">
 
-`Flask` `Pandas` `ChartJS` `Python`
+**🎨 Frontend**
+
+</td>
+<td align="center" width="20%">
+
+**🗄️ Database**
+
+</td>
+<td align="center" width="20%">
+
+**🤖 AI / ML**
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td align="center">
 
-### 📝 FastAPI Issue Tracker
-**Production-Grade REST API from Scratch**
-
-- 🔐 JWT Authentication + RBAC
-- 📌 Full CRUD with SQLAlchemy ORM
-- 📖 Auto-generated Swagger/OpenAPI docs
-- 👤 Admin vs User permission roles
-
-`FastAPI` `SQLite` `SQLAlchemy` `Python`
+<img src="https://skillicons.dev/icons?i=java&theme=dark" width="48" title="Java" /><br>Java<br>
+<img src="https://skillicons.dev/icons?i=python&theme=dark" width="48" title="Python" /><br>Python<br>
+<img src="https://skillicons.dev/icons?i=js&theme=dark" width="48" title="JavaScript" /><br>JavaScript<br>
+<img src="https://skillicons.dev/icons?i=c&theme=dark" width="48" title="C" /><br>C
 
 </td>
-<td width="50%" valign="top">
+<td align="center">
 
-### 🔗 LinkedIn Graph Analysis
-**Graph Algorithms on Real-World Data**
+<img src="https://skillicons.dev/icons?i=spring&theme=dark" width="48" title="Spring Boot" /><br>Spring Boot<br>
+<img src="https://skillicons.dev/icons?i=fastapi&theme=dark" width="48" title="FastAPI" /><br>FastAPI<br>
+<img src="https://skillicons.dev/icons?i=flask&theme=dark" width="48" title="Flask" /><br>Flask<br>
+<img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="48" title="Node.js" /><br>Node.js
 
-- 📂 Processed 130+ student CSV datasets
-- 🌳 BFS & DFS traversal implementation
-- 📊 Degree centrality analysis
-- 🧠 NetworkX graph visualization
+</td>
+<td align="center">
 
-`Python` `Pandas` `NetworkX`
+<img src="https://skillicons.dev/icons?i=react&theme=dark" width="48" title="React" /><br>React<br>
+<img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="48" title="Tailwind" /><br>Tailwind<br>
+<img src="https://skillicons.dev/icons?i=html&theme=dark" width="48" title="HTML5" /><br>HTML5<br>
+<img src="https://skillicons.dev/icons?i=css&theme=dark" width="48" title="CSS3" /><br>CSS3
+
+</td>
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="48" title="MySQL" /><br>MySQL<br>
+<img src="https://skillicons.dev/icons?i=sqlite&theme=dark" width="48" title="SQLite" /><br>SQLite<br>
+<img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="48" title="PostgreSQL" /><br>PostgreSQL<br>
+
+</td>
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=sklearn&theme=dark" width="48" title="Scikit-learn" /><br>Scikit-learn<br>
+<img src="https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white" title="Pandas" /><br>
+<img src="https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white" title="NumPy" /><br>
+<img src="https://img.shields.io/badge/-LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white" title="LangChain" />
 
 </td>
 </tr>
 </table>
 
----
-
-## 🧠 DSA Progress
+</div>
 
 <div align="center">
 
-| Topic | Status | Topic | Status |
-|:------|:------:|:------|:------:|
-| Arrays & Strings | ✅ | Heaps & Priority Queue | ✅ |
-| Hashing | ✅ | Graphs — BFS & DFS | ✅ |
-| Two Pointers | ✅ | Dynamic Programming | ✅ |
-| Sliding Window | ✅ | Backtracking | 🔄 |
-| Binary Search | ✅ | Tries | 🔄 |
-| Linked Lists | ✅ | Segment Trees | 📌 |
-| Stacks & Queues | ✅ | System Design | 🔄 |
-| Trees — BST, AVL | ✅ | Advanced Graphs | 📌 |
+### 🛠️ DevOps & Tools
 
-✅ Done &nbsp;|&nbsp; 🔄 In Progress &nbsp;|&nbsp; 📌 Upcoming
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,linux,docker,vscode,idea,postman&theme=dark" />
 
 </div>
 
----
+<br>
 
-## 📊 GitHub Stats
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--                             FEATURED PROJECTS                             -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="28" /> &nbsp;Featured Projects
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=aryan2006-saini&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=a855f7&icon_color=22d3ee&text_color=e2e8f0&bg_color=0d1117&cache_seconds=1800" />
+<a href="https://github.com/aryan2006-saini">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=aryan2006-saini&repo=Book-Recommendation-System&theme=react&bg_color=0d1117&border_color=1a1b27&icon_color=a855f7&title_color=a855f7&text_color=8b949e&hide_border=true" />
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/aryan2006-saini">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=aryan2006-saini&repo=FastAPI-Issue-Tracker&theme=react&bg_color=0d1117&border_color=1a1b27&icon_color=a855f7&title_color=a855f7&text_color=8b949e&hide_border=true" />
+</a>
+
+</div>
+
+<br>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" width="22" /> Book Recommendation System
+> **Content-Based ML Recommender + Speech Search**
+
+<img align="right" src="https://img.shields.io/badge/★_Featured-FFD700?style=flat-square" />
+
+| Feature | Description |
+|:--------|:------------|
+| 🎤 **Speech Search** | Voice-to-text powered book discovery |
+| 🧠 **ML Engine** | TF-IDF + Cosine Similarity ranking |
+| ❤️ **Personalized** | Favorites & reading history tracking |
+| 📱 **Responsive** | Mobile-first responsive interface |
+
+<p>
+<img src="https://img.shields.io/badge/Flask-000?style=flat-square&logo=flask" />
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="22" /> Stack Overflow Tag Trends
+> **Data Engineering meets Interactive Visualization**
+
+<img align="right" src="https://img.shields.io/badge/★_Featured-FFD700?style=flat-square" />
+
+| Feature | Description |
+|:--------|:------------|
+| 📊 **Charts** | ChartJS interactive visualizations |
+| 🌙 **Dark Mode** | localStorage persistence theme |
+| ⚡ **Pipeline** | CSV → Parquet (10× faster reads) |
+| 🔥 **Analytics** | Monthly + yearly tag frequency |
+
+<p>
+<img src="https://img.shields.io/badge/Flask-000?style=flat-square&logo=flask" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/ChartJS-FF6384?style=flat-square&logo=chartdotjs&logoColor=white" />
+</p>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" width="22" /> FastAPI Issue Tracker
+> **Production-Grade REST API from Scratch**
+
+| Feature | Description |
+|:--------|:------------|
+| 🔐 **Auth** | JWT Authentication + RBAC |
+| 📌 **CRUD** | Full CRUD with SQLAlchemy ORM |
+| 📖 **Docs** | Auto-generated Swagger/OpenAPI |
+| 👤 **Roles** | Admin vs User permission system |
+
+<p>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white" />
+<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" width="22" /> LinkedIn Graph Analysis
+> **Graph Algorithms on Real-World Data**
+
+| Feature | Description |
+|:--------|:------------|
+| 📂 **Scale** | 130+ student CSV datasets |
+| 🌳 **Traversal** | BFS & DFS implementation |
+| 📊 **Centrality** | Degree centrality analysis |
+| 🧠 **Viz** | NetworkX graph visualization |
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NetworkX-4C8CBF?style=flat-square" />
+</p>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--                              DSA PROGRESS                                 -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Puzzle%20Piece.png" alt="DSA" width="28" /> &nbsp;DSA Progress Tracker
+
+<div align="center">
+
+```
+ ╔════════════════════════════════════════════════════════════════════════════╗
+ ║                         DSA MASTERY DASHBOARD                            ║
+ ╠════════════════════════════════════════════════════════════════════════════╣
+ ║                                                                          ║
+ ║  ✅ Arrays & Strings      ██████████████████████████ 100%                ║
+ ║  ✅ Hashing               ██████████████████████████ 100%                ║
+ ║  ✅ Two Pointers           ██████████████████████████ 100%                ║
+ ║  ✅ Sliding Window         ██████████████████████████ 100%                ║
+ ║  ✅ Binary Search          ██████████████████████████ 100%                ║
+ ║  ✅ Linked Lists           ██████████████████████████ 100%                ║
+ ║  ✅ Stacks & Queues        ██████████████████████████ 100%                ║
+ ║  ✅ Trees — BST, AVL       ██████████████████████████ 100%                ║
+ ║  ✅ Heaps & Priority Queue ██████████████████████████ 100%                ║
+ ║  ✅ Graphs — BFS & DFS     ██████████████████████████ 100%                ║
+ ║  ✅ Dynamic Programming    ██████████████████████████ 100%                ║
+ ║  🔄 Backtracking           ████████████████████░░░░░░  75%                ║
+ ║  🔄 Tries                  ██████████████░░░░░░░░░░░░  55%                ║
+ ║  🔄 System Design          ████████████░░░░░░░░░░░░░░  45%                ║
+ ║  📌 Segment Trees          ██████░░░░░░░░░░░░░░░░░░░░  25%                ║
+ ║  📌 Advanced Graphs        ████░░░░░░░░░░░░░░░░░░░░░░  15%                ║
+ ║                                                                          ║
+ ╠════════════════════════════════════════════════════════════════════════════╣
+ ║  ✅ Mastered    🔄 In Progress    📌 Upcoming                             ║
+ ╚════════════════════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+<div align="center">
+
+[![LeetCode](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=0d1117&color=a855f7&label=LeetCode+Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Faryan2006-saini&logo=leetcode&logoColor=FFA116)](https://leetcode.com/u/aryan2006-saini/)
 &nbsp;
-<img height="180" src="https://streak-stats.demolab.com/?user=aryan2006-saini&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=22D3EE&currStreakLabel=A855F7&dates=64748b&cache_seconds=1800" />
+[![GFG](https://img.shields.io/badge/GeeksForGeeks-Practice-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/aryan2006-saini/)
+
+</div>
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--                              GITHUB STATS                                 -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Stats" width="28" /> &nbsp;GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=aryan2006-saini&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=a855f7&icon_color=22d3ee&text_color=e2e8f0&bg_color=0d1117&rank_icon=github&ring_color=a855f7" />
+&nbsp;
+<img width="49%" src="https://streak-stats.demolab.com/?user=aryan2006-saini&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=22D3EE&currStreakLabel=A855F7&sideLabels=e2e8f0&dates=64748b&currStreakNum=e2e8f0&sideNums=22d3ee" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryan2006-saini&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=e2e8f0&langs_count=8&cache_seconds=1800" />
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryan2006-saini&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=e2e8f0&langs_count=8" />
 
 </div>
 
----
+<br>
 
-## 🏆 GitHub Trophies
+<!-- ─────────────── TROPHIES ─────────────── -->
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=aryan2006-saini&theme=tokyonight&no-bg=true&no-frame=true&column=4&margin-w=10&margin-h=10" />
+<img src="https://github-profile-trophy.vercel.app/?username=aryan2006-saini&theme=discord&no-bg=true&no-frame=true&column=7&margin-w=8&margin-h=8" />
 
 </div>
 
----
+<br>
 
-## 📅 Contribution Graph
+<!-- ─────────────── CONTRIBUTION GRAPH ─────────────── -->
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aryan2006-saini&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a855f7&line=22d3ee&point=ffffff&area=true&area_color=a855f7" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aryan2006-saini&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a855f7&line=22d3ee&point=ffffff&area=true&area_color=a855f720" />
 
 </div>
 
----
+<br>
 
-## 🐍 Contribution Snake
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-> **Setup required:** Create `.github/workflows/snake.yml` in your profile repo with the content below, then push. GitHub Actions will auto-generate the snake SVG on a schedule.
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--                            CONTRIBUTION SNAKE                             -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" alt="Snake" width="28" /> &nbsp;Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aryan2006-saini/aryan2006-saini/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aryan2006-saini/aryan2006-saini/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution-snake" src="https://raw.githubusercontent.com/aryan2006-saini/aryan2006-saini/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
 
 <details>
-<summary>📋 Click to copy snake.yml workflow</summary>
+<summary><kbd>📋 Snake Workflow Setup (click to expand)</kbd></summary>
+
+<br>
+
+> Create `.github/workflows/snake.yml` in your profile repo and push. GitHub Actions auto-generates the snake SVG daily.
 
 ```yaml
 name: Generate Snake
@@ -249,45 +419,102 @@ jobs:
 
 </details>
 
+<br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--                              2026 ROADMAP                                 -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Milky%20Way.png" alt="Roadmap" width="28" /> &nbsp;2026 Roadmap
+
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aryan2006-saini/aryan2006-saini/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aryan2006-saini/aryan2006-saini/output/github-contribution-grid-snake.svg" />
-  <img alt="contribution-snake" src="https://raw.githubusercontent.com/aryan2006-saini/aryan2006-saini/output/github-contribution-grid-snake.svg" />
-</picture>
+```
+                        ╭──────────────────────────────────────╮
+                        │          🗺️  2026 JOURNEY            │
+                        ╰──────────────────────────────────────╯
+
+   Q1 (Jan–Mar)                 Q2 (Apr–Jun)                Q3 (Jul–Sep)               Q4 (Oct–Dec)
+  ┌─────────────┐          ┌──────────────────┐         ┌──────────────────┐      ┌──────────────────┐
+  │ Spring Boot │          │  LangChain +     │         │  B2B SaaS Launch │      │ System Design    │
+  │ Microservices│  ━━━▶   │  Agentic AI      │ ━━━▶    │  Sitare Startup  │ ━━━▶ │ Mastery + SWE    │
+  │ REST Patterns│          │  Systems         │         │  Program         │      │ Internship Hunt  │
+  └─────────────┘          └──────────────────┘         └──────────────────┘      └──────────────────┘
+       ✅ Done                ◄── YOU ARE HERE                🔜 Next                  🎯 Target
+```
 
 </div>
 
----
+<br>
 
-## 🎯 2026 Roadmap
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-```
-Jan–Mar  ──  Spring Boot microservices + REST design patterns
-Apr–Jun  ──  LangChain + Agentic AI systems          ◄  YOU ARE HERE
-Jul–Sep  ──  B2B SaaS launch (Sitare Startup Program)
-Oct–Dec  ──  System Design mastery + SWE internship hunt
-```
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--                            RANDOM DEV QUOTE                               -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
----
-
-## 🌐 Connect With Me
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Thought%20Balloon.png" alt="Quote" width="28" /> &nbsp;Random Dev Quote
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryan-saini-966370312)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aryansaini8773@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aryan2006-saini)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/aryan2006-saini/)
-[![GeeksForGeeks](https://img.shields.io/badge/GeeksForGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/aryan2006-saini/)
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 
 </div>
 
----
+<br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--                              CONNECT                                      -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Incoming%20Envelope.png" alt="Connect" width="28" /> &nbsp;Let's Connect
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer&text=Thanks%20for%20visiting%20%E2%80%94%20Go%20build%20something!&fontSize=16&fontColor=ffffff&fontAlignY=68" />
+<a href="https://www.linkedin.com/in/aryan-saini-966370312">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" />
+</a>
+&nbsp;
+<a href="mailto:aryansaini8773@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" />
+</a>
+&nbsp;
+<a href="https://github.com/aryan2006-saini">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" />
+</a>
+&nbsp;
+<a href="https://leetcode.com/u/aryan2006-saini/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=FFA116" />
+</a>
+&nbsp;
+<a href="https://www.geeksforgeeks.org/user/aryan2006-saini/">
+  <img src="https://img.shields.io/badge/GeeksForGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=2F8D46" />
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+### 💬 _"If you think something is impossible, you're probably right — about yourself, not the thing."_
+
+</div>
+
+<br>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--                                FOOTER                                     -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks%20for%20visiting!%20⭐%20Star%20a%20repo%20if%20you%20like%20my%20work&fontSize=14&fontColor=ffffff&fontAlignY=72&animation=fadeIn" />
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Made%20with-❤️%20and%20☕-a855f7?style=flat-square" />
 
 </div>
