@@ -387,10 +387,10 @@ jobs:
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 <!--                              2026 ROADMAP                                 -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
+<!--
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Milky%20Way.png" alt="Roadmap" width="28" /> &nbsp;2026 Roadmap
-
-<div align="center">
+-->
+<!-- <div align="center">
 
 ```
                         ╭──────────────────────────────────────╮
@@ -406,7 +406,7 @@ jobs:
        ✅ Done                ◄── YOU ARE HERE                🔜 Next                  🎯 Target
 ```
 
-</div>
+</div> -->
 
 <br>
 
