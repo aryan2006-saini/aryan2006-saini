@@ -10,7 +10,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=100&lines=%E2%9A%A1+Java+%26+Spring+Boot+Backend+Engineer;%F0%9F%A4%96+FastAPI+%7C+Agentic+AI+%7C+LangChain+%7C+React;%F0%9F%8E%AF+Building+B2B+SaaS+%40+Sitare+Startup+Program;%F0%9F%9A%80+B.Tech+CSE+%E2%80%94+Semester+6+%7C+Lucknow%2C+India)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=100&lines=%E2%9A%A1+Java+%26+Spring+Boot+Backend+Engineer;%F0%9F%A4%96+FastAPI+%7C+Agentic+AI+%7C+LangChain+%7C+React;%F0%9F%94%A5+Turning+Coffee+into+Production-Grade+APIs;%F0%9F%8E%AF+B.Tech+CSE+%E2%80%94+Semester+6+%7C+Lucknow%2C+India)](https://git.io/typing-svg)
 
 </div>
 
@@ -18,6 +18,8 @@
 
 <div align="center">
 
+<a href="https://aryan2006-saini.github.io/portfolio"><img src="https://img.shields.io/badge/%F0%9F%8C%90_3D_Portfolio-Visit_My_Universe-a855f7?style=for-the-badge&labelColor=0d1117" /></a>
+&nbsp;
 <a href="https://github.com/aryan2006-saini"><img src="https://komarev.com/ghpvc/?username=aryan2006-saini&label=Profile+Views&color=7c3aed&style=for-the-badge" /></a>
 &nbsp;
 <a href="https://github.com/aryan2006-saini?tab=followers"><img src="https://img.shields.io/github/followers/aryan2006-saini?label=Followers&style=for-the-badge&color=06b6d4&labelColor=0f172a&logo=github" /></a>
@@ -45,8 +47,7 @@ const aryan = {
   pronouns     : "he" | "him",
   location     : "Lucknow, Uttar Pradesh, India 📍",
   university   : "Sitare University — B.Tech CSE (Semester 6)",
-  program      : "Sitare 10-Month Startup Program 🚀",
-  
+
   stack: {
     languages  : ["Java ☕", "Python 🐍", "JavaScript", "C"],
     backend    : ["Spring Boot", "FastAPI", "Flask", "Node.js"],
@@ -56,12 +57,7 @@ const aryan = {
     devops     : ["Git", "GitHub Actions", "Linux 🐧", "Docker 🐳"],
   },
 
-  currently: {
-    building   : "B2B SaaS — coaching institute automation platform",
-    learning   : ["Agentic AI & LangGraph", "System Design", "Microservices"],
-    reading    : "Designing Data-Intensive Applications 📖",
-  },
-
+  ask_me_about : ["Backend APIs", "ML Pipelines", "DSA", "FastAPI", "Java"],
   fun_fact     : "I debug in my dreams and wake up with solutions 💡",
   motto        : "Learn → Build → Ship → Repeat 🔁",
 };
@@ -276,55 +272,6 @@ const aryan = {
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!--                              DSA PROGRESS                                 -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Puzzle%20Piece.png" alt="DSA" width="28" /> &nbsp;DSA Progress Tracker
-
-<div align="center">
-
-```
- ╔════════════════════════════════════════════════════════════════════════════╗
- ║                         DSA MASTERY DASHBOARD                            ║
- ╠════════════════════════════════════════════════════════════════════════════╣
- ║                                                                          ║
- ║  ✅ Arrays & Strings      ██████████████████████████ 100%                ║
- ║  ✅ Hashing               ██████████████████████████ 100%                ║
- ║  ✅ Two Pointers           ██████████████████████████ 100%                ║
- ║  ✅ Sliding Window         ██████████████████████████ 100%                ║
- ║  ✅ Binary Search          ██████████████████████████ 100%                ║
- ║  ✅ Linked Lists           ██████████████████████████ 100%                ║
- ║  ✅ Stacks & Queues        ██████████████████████████ 100%                ║
- ║  ✅ Trees — BST, AVL       ██████████████████████████ 100%                ║
- ║  ✅ Heaps & Priority Queue ██████████████████████████ 100%                ║
- ║  ✅ Graphs — BFS & DFS     ██████████████████████████ 100%                ║
- ║  ✅ Dynamic Programming    ██████████████████████████ 100%                ║
- ║  🔄 Backtracking           ████████████████████░░░░░░  75%                ║
- ║  🔄 Tries                  ██████████████░░░░░░░░░░░░  55%                ║
- ║  🔄 System Design          ████████████░░░░░░░░░░░░░░  45%                ║
- ║  📌 Segment Trees          ██████░░░░░░░░░░░░░░░░░░░░  25%                ║
- ║  📌 Advanced Graphs        ████░░░░░░░░░░░░░░░░░░░░░░  15%                ║
- ║                                                                          ║
- ╠════════════════════════════════════════════════════════════════════════════╣
- ║  ✅ Mastered    🔄 In Progress    📌 Upcoming                             ║
- ╚════════════════════════════════════════════════════════════════════════════╝
-```
-
-</div>
-
-<div align="center">
-
-[![LeetCode](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=0d1117&color=a855f7&label=LeetCode+Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Faryan2006-saini&logo=leetcode&logoColor=FFA116)](https://leetcode.com/u/aryan2006-saini/)
-&nbsp;
-[![GFG](https://img.shields.io/badge/GeeksForGeeks-Practice-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/aryan2006-saini/)
-
-</div>
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
 <!--                              GITHUB STATS                                 -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
@@ -338,9 +285,23 @@ const aryan = {
 
 </div>
 
+<br>
+
 <div align="center">
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryan2006-saini&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=e2e8f0&langs_count=8" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryan2006-saini&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=e2e8f0&langs_count=8" />
+&nbsp;
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aryan2006-saini&theme=tokyonight" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aryan2006-saini&theme=tokyonight" />
+&nbsp;
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aryan2006-saini&theme=tokyonight&utcOffset=5.5" />
 
 </div>
 
@@ -438,9 +399,9 @@ jobs:
 
    Q1 (Jan–Mar)                 Q2 (Apr–Jun)                Q3 (Jul–Sep)               Q4 (Oct–Dec)
   ┌─────────────┐          ┌──────────────────┐         ┌──────────────────┐      ┌──────────────────┐
-  │ Spring Boot │          │  LangChain +     │         │  B2B SaaS Launch │      │ System Design    │
-  │ Microservices│  ━━━▶   │  Agentic AI      │ ━━━▶    │  Sitare Startup  │ ━━━▶ │ Mastery + SWE    │
-  │ REST Patterns│          │  Systems         │         │  Program         │      │ Internship Hunt  │
+  │ Spring Boot │          │  LangChain +     │         │  Open-Source     │      │ System Design    │
+  │ Microservices│  ━━━▶   │  Agentic AI      │ ━━━▶    │  Contributions + │ ━━━▶ │ Mastery + SWE    │
+  │ REST Patterns│          │  Systems         │         │  Advanced Backend│      │ Internship Hunt  │
   └─────────────┘          └──────────────────┘         └──────────────────┘      └──────────────────┘
        ✅ Done                ◄── YOU ARE HERE                🔜 Next                  🎯 Target
 ```
@@ -493,6 +454,10 @@ jobs:
 &nbsp;
 <a href="https://www.geeksforgeeks.org/user/aryan2006-saini/">
   <img src="https://img.shields.io/badge/GeeksForGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=2F8D46" />
+</a>
+&nbsp;
+<a href="https://aryan2006-saini.github.io/portfolio">
+  <img src="https://img.shields.io/badge/3D%20Portfolio-a855f7?style=for-the-badge&logo=threedotjs&logoColor=white&labelColor=a855f7" />
 </a>
 
 </div>
