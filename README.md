@@ -173,7 +173,7 @@ const aryan = {
 </a>
 &nbsp;&nbsp;
 <a href="https://github.com/aryan2006-saini">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=aryan2006-saini&repo=FastAPI-Issue-Tracker&theme=react&bg_color=0d1117&border_color=1a1b27&icon_color=a855f7&title_color=a855f7&text_color=8b949e&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=aryan2006-saini&repo=fast-api-issue-tracker&theme=react&bg_color=0d1117&border_color=1a1b27&icon_color=a855f7&title_color=a855f7&text_color=8b949e&hide_border=true" />
 </a>
 
 </div>
@@ -338,9 +338,15 @@ const aryan = {
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aryan2006-saini/aryan2006-saini/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aryan2006-saini/aryan2006-saini/output/github-contribution-grid-snake.svg" />
-  <img alt="contribution-snake" src="https://raw.githubusercontent.com/aryan2006-saini/aryan2006-saini/output/github-contribution-grid-snake.svg" />
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/aryan2006-saini/aryan2006-saini/output/github-contribution-grid-snake-dark.svg" />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/aryan2006-saini/aryan2006-saini/output/github-contribution-grid-snake.svg" />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/aryan2006-saini/aryan2006-saini/output/github-contribution-grid-snake.svg" />
 </picture>
 
 </div>
@@ -436,7 +442,7 @@ jobs:
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/aryan-saini-966370312">
+<a href="https://www.linkedin.com/in/aryan8773">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" />
 </a>
 &nbsp;
@@ -448,11 +454,11 @@ jobs:
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" />
 </a>
 &nbsp;
-<a href="https://leetcode.com/u/aryan2006-saini/">
+<a href="https://leetcode.com/u/aryan8773/">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=FFA116" />
 </a>
 &nbsp;
-<a href="https://www.geeksforgeeks.org/user/aryan2006-saini/">
+<a href="https://www.geeksforgeeks.org/user/aryan8773/">
   <img src="https://img.shields.io/badge/GeeksForGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=2F8D46" />
 </a>
 &nbsp;
