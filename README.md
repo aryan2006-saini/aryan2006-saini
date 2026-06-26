@@ -18,8 +18,8 @@
 
 <div align="center">
 
-<a href="https://aryan2006-saini.github.io/portfolio"><img src="https://img.shields.io/badge/%F0%9F%8C%90_3D_Portfolio-Visit_My_Universe-a855f7?style=for-the-badge&labelColor=0d1117" /></a>
-&nbsp;
+<!-- <a href="https://aryan2006-saini.github.io/portfolio"><img src="https://img.shields.io/badge/%F0%9F%8C%90_3D_Portfolio-Visit_My_Universe-a855f7?style=for-the-badge&labelColor=0d1117" /></a>
+&nbsp; -->
 <a href="https://github.com/aryan2006-saini"><img src="https://komarev.com/ghpvc/?username=aryan2006-saini&label=Profile+Views&color=7c3aed&style=for-the-badge" /></a>
 &nbsp;
 <a href="https://github.com/aryan2006-saini?tab=followers"><img src="https://img.shields.io/github/followers/aryan2006-saini?label=Followers&style=for-the-badge&color=06b6d4&labelColor=0f172a&logo=github" /></a>
