@@ -413,9 +413,9 @@ jobs:
 
 </div> -->
 
-<br>
+<!-- <br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 <!--                            RANDOM DEV QUOTE                               -->
@@ -460,10 +460,10 @@ jobs:
 <a href="https://www.geeksforgeeks.org/user/aryan8773/">
   <img src="https://img.shields.io/badge/GeeksForGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=2F8D46" />
 </a>
-&nbsp;
+<!-- &nbsp;
 <a href="https://aryan2006-saini.github.io/portfolio">
   <img src="https://img.shields.io/badge/3D%20Portfolio-a855f7?style=for-the-badge&logo=threedotjs&logoColor=white&labelColor=a855f7" />
-</a>
+</a> -->
 
 </div>
 
