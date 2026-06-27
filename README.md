@@ -24,8 +24,8 @@
 &nbsp;
 <a href="https://github.com/aryan2006-saini?tab=followers"><img src="https://img.shields.io/github/followers/aryan2006-saini?label=Followers&style=for-the-badge&color=06b6d4&labelColor=0f172a&logo=github" /></a>
 &nbsp;
-<img src="https://img.shields.io/badge/Oracle%20OCI-AI%20Foundations-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-&nbsp;
+<!-- <img src="https://img.shields.io/badge/Oracle%20OCI-AI%20Foundations-F80000?style=for-the-badge&logo=oracle&logoColor=white" /> 
+&nbsp; -->
 <img src="https://img.shields.io/badge/Status-Open%20to%20Internships%202026-22c55e?style=for-the-badge&logo=checkmarx&logoColor=white" />
 
 </div>
@@ -137,10 +137,11 @@ const aryan = {
 </td>
 <td align="center">
 
-<img src="https://skillicons.dev/icons?i=sklearn&theme=dark" width="48" title="Scikit-learn" /><br>Scikit-learn<br>
+<!-- <img src="https://skillicons.dev/icons?i=sklearn&theme=dark" width="48" title="Scikit-learn" /><br>Scikit-learn<br> -->
 <img src="https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white" title="Pandas" /><br>
 <img src="https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white" title="NumPy" /><br>
-<img src="https://img.shields.io/badge/-LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white" title="LangChain" />
+<!-- 
+<img src="https://img.shields.io/badge/-LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white" title="LangChain" /> -->
 
 </td>
 </tr>
