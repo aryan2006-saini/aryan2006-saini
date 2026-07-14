@@ -46,7 +46,7 @@
 const aryan = {
   pronouns     : "he" | "him",
   location     : "Lucknow, Uttar Pradesh, India 📍",
-  university   : "Sitare University — B.Tech CSE (Semester 6)",
+  university   : "Sitare University — B.Tech CSE (Semester 5)",
 
   stack: {
     languages  : ["Java ☕", "Python 🐍", "JavaScript", "C"],
