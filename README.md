@@ -53,9 +53,7 @@ const aryan = {
     backend    : ["Spring Boot", "FastAPI", "Flask", "Node.js"],
     frontend   : ["React ⚛️", "Tailwind CSS", "HTML/CSS"],
     database   : ["MySQL", "SQLite", "SQLAlchemy ORM"],
-<!--
     ai_ml      : ["Scikit-learn", "Pandas", "NumPy", "LangChain", "LangGraph"],
--->
     devops     : ["Git", "GitHub Actions", "Linux 🐧", "Docker 🐳"],
   },
 
