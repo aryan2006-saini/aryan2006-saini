@@ -3,8 +3,12 @@
 <!--                          ARYAN SAINI — GitHub Profile                    -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-<div align="center">
+<!-- <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Aryan%20Saini&fontSize=75&fontAlignY=35&desc=Backend%20Engineer%20%E2%80%A2%20AI%2FML%20Explorer%20%E2%80%A2%20Builder&descAlignY=55&descSize=18&fontColor=ffffff&animation=fadeIn" />
+</div> -->
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Aryan%20Saini&fontSize=75&fontAlignY=35&desc=AI%2FML%20Explorer%20%E2%80%A2%20Builder&descAlignY=55&descSize=18&fontColor=ffffff&animation=fadeIn" />
 </div>
 
 <!-- ─────────────── ANIMATED TYPING ─────────────── -->
