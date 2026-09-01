@@ -9,11 +9,11 @@
 
 <!-- ─────────────── ANIMATED TYPING ─────────────── -->
 
-<div align="center">
+<!-- <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=100&lines=%E2%9A%A1+Java+%26+Spring+Boot+Backend+Engineer;%F0%9F%A4%96+FastAPI+%7C+Agentic+AI+%7C+LangChain+%7C+React;%F0%9F%94%A5+Turning+Coffee+into+Production-Grade+APIs;%F0%9F%8E%AF+B.Tech+CSE+%E2%80%94+Semester+6+%7C+Lucknow%2C+India)](https://git.io/typing-svg)
 
-</div>
+</div> -->
 
 <!-- ─────────────── BADGES ROW ─────────────── -->
 
